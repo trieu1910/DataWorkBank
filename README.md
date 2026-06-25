@@ -50,11 +50,6 @@ Tổng quan dataset: số người, số tác vụ, top 10 ngành.
 ### 4. Đề xuất AI Agent
 Bảng khuyến nghị mô hình AI trợ lý cho 14 vị trí chuyên môn.
 
-## Tài liệu
-
-- [`BAI_PHAN_TICH.md`](BAI_PHAN_TICH.md) — Báo cáo phân tích chi tiết
-- [`KY_THUAT.md`](KY_THUAT.md) — Tài liệu kỹ thuật: code, sơ đồ luồng, phương pháp
-
 ## Kết luận
 
 > Rào cản lớn nhất của AI không phải là công nghệ — mà là tâm lý con người.
